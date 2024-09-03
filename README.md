@@ -30,5 +30,3 @@ Your task is to identify and resolve the issues in this API using best practices
 1. Create a new branch from the master branch.
 2. Address the issues to improve code quality.
 3. Submit a pull request to the master branch, explaining the changes made and the reasons behind them.
-
-# flexpay-tests-productcatalog-api
