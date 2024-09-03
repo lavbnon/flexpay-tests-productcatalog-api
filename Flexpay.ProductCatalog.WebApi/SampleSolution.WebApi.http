@@ -1,0 +1,6 @@
+@SampleSolution.WebApi_HostAddress = http://localhost:5091
+
+GET {{SampleSolution.WebApi_HostAddress}}/products/
+Accept: application/json
+
+###
