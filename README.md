@@ -1,12 +1,17 @@
 # Flexpay Bad Products API
 
 ## Description
-This simple web API application serves as a simplified model that simulates typical payment catalog operations. Despite its simplicity, the application contains several coding issues that need to be addressed before this application can be included in any CI/CD pipeline and deployed to a production environment. This tests is designed to see the candidate capacity to prioritize and solve issues in a given codebase while also respecting time constraints. We understand that not everything mentioned in this documentation can be accomplished in the allowed time.
+This basic web API application serves as a simplified model simulating typical payment catalog operations. Despite its 
+simplicity, the application contains several coding issues that need to be addressed before this application can be 
+included in any CI/CD pipeline and deployed to a production environment. This test is designed to see the candidate's 
+ability to prioritize and address issues in a given codebase while also respecting time constraints. We recognize that 
+not every task outlined in this documentation can be completed within the allotted time.
 
 ## Requirements
-Your task is to identify and resolve the issues in this API using best practices in API development, focusing on the following priorities:
+Your task is to identify and resolve the issues in this API using best practices in API development, focusing on the 
+following priorities:
 
-### Must have:
+### Must have
 - **Time constraint** : Make sure that time constraints are respected.
 - **Unit Testing**: Ensure the code is testable by implementing unit tests.
 - **Refactorings**: Enhance overall code quality and projects structure to make them more robust and maintainable.
